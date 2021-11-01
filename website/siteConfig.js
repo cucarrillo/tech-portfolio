@@ -67,7 +67,7 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        //linkedin: 'tonya-melvin-bryant-ab92b855',
+        linkedin: 'cesar-carrillo-b63655224',
         //twitter: 'tonyamccu',
         github: 'cucarrillo',
     },
