@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Cesar U. Carrillo', // Title for your website.
-    tagline: 'Hardworker, Fast, Software Developer',
+    tagline: 'Hardworking, Meticulous, Software Developer',
     profilePhoto: 'img/profile.png',
     url: 'https://cucarrillo.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
